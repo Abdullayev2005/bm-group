@@ -1,6 +1,8 @@
 // app/page.js
 
-import NewsCard from "@/app/gallery/NewsCard";
+import NewsCard from "@/components/news/NewsCard";
+
+
 
 export default function HomePage() {
   return (
